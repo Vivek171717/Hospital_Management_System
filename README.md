@@ -1,6 +1,6 @@
 # Hospital_Management_System
 
-• Developed a Hospital Management System using ASP.NET C# and MS SQL, providing essential functionality for seamless healthcare administration, implemented secure login utilizing user id and password ensuring efficient patient and resource management, and accurate billing system through a comprehensive billing module.
+• Developed a Hospital Management System using ASP.NET C#, HTML, CSS and MS SQL, providing essential functionality for seamless healthcare administration, implemented secure login utilizing user id and password ensuring efficient patient and resource management, and accurate billing system through a comprehensive billing module.
 
 
 • Created intuitive user interfaces for doctor, patient, and medicine management pages allowing CRUD (Create, Read, Update, Delete) operations.
